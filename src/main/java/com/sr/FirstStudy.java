@@ -10,6 +10,7 @@ public class FirstStudy {
         list.add("jinan");
         list.add("yantai");
         list.add("zibo");
+        list.add("dadiaoshuo");
         System.out.println(JSON.toJSONString(list));
     }
 }
