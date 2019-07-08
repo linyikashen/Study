@@ -9,6 +9,7 @@ public class FirstStudy {
         List<String> list = new ArrayList<String>();
         list.add("jinan");
         list.add("yantai");
+        list.add("zibo");
         System.out.println(JSON.toJSONString(list));
     }
 }
